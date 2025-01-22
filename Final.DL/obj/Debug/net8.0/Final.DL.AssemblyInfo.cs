@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Final.DL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0160cccaa3c80b5c0bccbfdd5532649e4fe26f98")]
 [assembly: System.Reflection.AssemblyProductAttribute("Final.DL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Final.DL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

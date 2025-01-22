@@ -1,0 +1,13 @@
+C:\Users\II Novbe\source\repos\Final\Final.CL\bin\Debug\net8.0\Final.CL.deps.json
+C:\Users\II Novbe\source\repos\Final\Final.CL\bin\Debug\net8.0\Final.CL.dll
+C:\Users\II Novbe\source\repos\Final\Final.CL\bin\Debug\net8.0\Final.CL.pdb
+C:\Users\II Novbe\source\repos\Final\Final.CL\obj\Debug\net8.0\Final.CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\Final\Final.CL\obj\Debug\net8.0\Final.CL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\Final\Final.CL\obj\Debug\net8.0\Final.CL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\Final\Final.CL\obj\Debug\net8.0\Final.CL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\Final\Final.CL\obj\Debug\net8.0\Final.CL.sourcelink.json
+C:\Users\II Novbe\source\repos\Final\Final.CL\obj\Debug\net8.0\Final.CL.dll
+C:\Users\II Novbe\source\repos\Final\Final.CL\obj\Debug\net8.0\refint\Final.CL.dll
+C:\Users\II Novbe\source\repos\Final\Final.CL\obj\Debug\net8.0\Final.CL.pdb
+C:\Users\II Novbe\source\repos\Final\Final.CL\obj\Debug\net8.0\ref\Final.CL.dll
+C:\Users\II Novbe\source\repos\Final\Final.CL\obj\Debug\net8.0\Final.CL.csproj.AssemblyReference.cache

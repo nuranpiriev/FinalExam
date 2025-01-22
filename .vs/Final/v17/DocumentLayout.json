@@ -3,16 +3,128 @@
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.bl\\services\\concrets\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\concrets\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.bl\\extentions\\configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\extentions\\configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.bl\\final.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\final.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.dl\\extentions\\configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|solutionrelative:final.dl\\extentions\\configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\final.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\final.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.dl\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|solutionrelative:final.dl\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F35BB4-5DA2-40D8-B0F9-71330F4A8FFE}|Final.CL\\Final.CL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.cl\\models\\entities\\treatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F35BB4-5DA2-40D8-B0F9-71330F4A8FFE}|Final.CL\\Final.CL.csproj|solutionrelative:final.cl\\models\\entities\\treatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F35BB4-5DA2-40D8-B0F9-71330F4A8FFE}|Final.CL\\Final.CL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.cl\\models\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F35BB4-5DA2-40D8-B0F9-71330F4A8FFE}|Final.CL\\Final.CL.csproj|solutionrelative:final.cl\\models\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.dl\\repositories\\abstracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|solutionrelative:final.dl\\repositories\\abstracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F35BB4-5DA2-40D8-B0F9-71330F4A8FFE}|Final.CL\\Final.CL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.cl\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F35BB4-5DA2-40D8-B0F9-71330F4A8FFE}|Final.CL\\Final.CL.csproj|solutionrelative:final.cl\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.bl\\dtos\\treatmentdtos\\puttreatmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\treatmentdtos\\puttreatmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.dl\\repositories\\concrets\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|solutionrelative:final.dl\\repositories\\concrets\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.bl\\services\\abstracts\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstracts\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.bl\\profiles\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\profiles\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.bl\\dtos\\identitydtos\\identityregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\identitydtos\\identityregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.bl\\dtos\\doctordtos\\getdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\doctordtos\\getdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.bl\\dtos\\identitydtos\\identitylogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE175CC-6638-4386-AAD4-C4FB10880094}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\identitydtos\\identitylogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.dl\\final.dl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|solutionrelative:final.dl\\final.dl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F35BB4-5DA2-40D8-B0F9-71330F4A8FFE}|Final.CL\\Final.CL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.cl\\final.cl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1F35BB4-5DA2-40D8-B0F9-71330F4A8FFE}|Final.CL\\Final.CL.csproj|solutionrelative:final.cl\\final.cl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.dl\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|solutionrelative:final.dl\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.dl\\migrations\\20250122132641_newtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|solutionrelative:final.dl\\migrations\\20250122132641_newtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.dl\\migrations\\20250122114937_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7F2870-9C26-4F28-97B1-E8A1540E0634}|Final.DL\\Final.DL.csproj|solutionrelative:final.dl\\migrations\\20250122114937_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +134,391 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "Final.PL\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "Final.PL\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-22T10:13:19.51Z",
+              "DocumentIndex": 6,
+              "Title": "Configurations.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\Extentions\\Configurations.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Extentions\\Configurations.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\Extentions\\Configurations.cs",
+              "RelativeToolTip": "Final.BL\\Extentions\\Configurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:43:04.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Final.PL",
+              "DocumentIndex": 2,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Final.PL\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "Final.PL\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:33:08.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PutTreatmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\DTOs\\TreatmentDTOs\\PutTreatmentDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\TreatmentDTOs\\PutTreatmentDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\DTOs\\TreatmentDTOs\\PutTreatmentDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\TreatmentDTOs\\PutTreatmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:16:47.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Final.PL.csproj",
               "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Final.PL.csproj",
               "RelativeDocumentMoniker": "Final.PL\\Final.PL.csproj",
               "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Final.PL.csproj",
               "RelativeToolTip": "Final.PL\\Final.PL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-22T10:12:55.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Final.PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Final.PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T10:24:43.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.CL\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Final.CL\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.CL\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Final.CL\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:32:41.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Final.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Final.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:24:36.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configurations.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Extentions\\Configurations.cs",
+              "RelativeDocumentMoniker": "Final.DL\\Extentions\\Configurations.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Extentions\\Configurations.cs",
+              "RelativeToolTip": "Final.DL\\Extentions\\Configurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:21:46.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Program.cs",
               "RelativeDocumentMoniker": "Final.PL\\Program.cs",
               "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Program.cs",
               "RelativeToolTip": "Final.PL\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T10:12:37.263Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Final.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Final.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T10:25:08.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\Services\\Concrets\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Concrets\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\Services\\Concrets\\DoctorService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Concrets\\DoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:48:39.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Treatment.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.CL\\Models\\Entities\\Treatment.cs",
+              "RelativeDocumentMoniker": "Final.CL\\Models\\Entities\\Treatment.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.CL\\Models\\Entities\\Treatment.cs",
+              "RelativeToolTip": "Final.CL\\Models\\Entities\\Treatment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:53:18.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Final.DL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Final.DL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:31:38.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Repositories\\Abstracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "Final.DL\\Repositories\\Abstracts\\IRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Repositories\\Abstracts\\IRepository.cs",
+              "RelativeToolTip": "Final.DL\\Repositories\\Abstracts\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:15:25.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Final.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\Final.BL.csproj",
+              "RelativeDocumentMoniker": "Final.BL\\Final.BL.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\Final.BL.csproj",
+              "RelativeToolTip": "Final.BL\\Final.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T10:23:53.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.CL\\Models\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Final.CL\\Models\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.CL\\Models\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Final.CL\\Models\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:36:06.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250122132641_NewTables.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Migrations\\20250122132641_NewTables.cs",
+              "RelativeDocumentMoniker": "Final.DL\\Migrations\\20250122132641_NewTables.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Migrations\\20250122132641_NewTables.cs",
+              "RelativeToolTip": "Final.DL\\Migrations\\20250122132641_NewTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:26:41.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Repositories\\Concrets\\Repository.cs",
+              "RelativeDocumentMoniker": "Final.DL\\Repositories\\Concrets\\Repository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Repositories\\Concrets\\Repository.cs",
+              "RelativeToolTip": "Final.DL\\Repositories\\Concrets\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:15:38.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\Services\\Abstracts\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstracts\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\Services\\Abstracts\\IDoctorService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstracts\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:30:50.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DoctorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\Profiles\\DoctorProfile.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Profiles\\DoctorProfile.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\Profiles\\DoctorProfile.cs",
+              "RelativeToolTip": "Final.BL\\Profiles\\DoctorProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:24:03.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IdentityRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\DTOs\\IdentityDTOs\\IdentityRegisterDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\IdentityDTOs\\IdentityRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\DTOs\\IdentityDTOs\\IdentityRegisterDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\IdentityDTOs\\IdentityRegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:51:52.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetDoctorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\DTOs\\DoctorDTOs\\GetDoctorDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\DoctorDTOs\\GetDoctorDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\DTOs\\DoctorDTOs\\GetDoctorDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\DoctorDTOs\\GetDoctorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:03:58.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IdentityLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\DTOs\\IdentityDTOs\\IdentityLoginDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\IdentityDTOs\\IdentityLoginDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.BL\\DTOs\\IdentityDTOs\\IdentityLoginDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\IdentityDTOs\\IdentityLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:51:06.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250122114937_addTables.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Migrations\\20250122114937_addTables.cs",
+              "RelativeDocumentMoniker": "Final.DL\\Migrations\\20250122114937_addTables.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Migrations\\20250122114937_addTables.cs",
+              "RelativeToolTip": "Final.DL\\Migrations\\20250122114937_addTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:49:37.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Final.DL.csproj",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Final.DL.csproj",
+              "RelativeDocumentMoniker": "Final.DL\\Final.DL.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Final.DL.csproj",
+              "RelativeToolTip": "Final.DL\\Final.DL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T10:40:15.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Final.PL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Final.PL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T10:24:49.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Final.PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Final.PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T10:24:56.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Final.CL.csproj",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.CL\\Final.CL.csproj",
+              "RelativeDocumentMoniker": "Final.CL\\Final.CL.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.CL\\Final.CL.csproj",
+              "RelativeToolTip": "Final.CL\\Final.CL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T10:32:03.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "Final.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\appsettings.json",
+              "RelativeToolTip": "Final.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T10:20:07.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DoctorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Configurations\\DoctorConfiguration.cs",
+              "RelativeDocumentMoniker": "Final.DL\\Configurations\\DoctorConfiguration.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.DL\\Configurations\\DoctorConfiguration.cs",
+              "RelativeToolTip": "Final.DL\\Configurations\\DoctorConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:47:16.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Final.PL\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Final.PL\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-22T10:13:19.51Z"
             }
           ]
         }
