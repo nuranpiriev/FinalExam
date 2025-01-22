@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\final.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\final.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|c:\\users\\ii novbe\\source\\repos\\final\\final.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DBE7AA-3F03-4133-913D-88F004366B51}|Final.PL\\Final.PL.csproj|solutionrelative:final.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Final.PL\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Final.PL\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-22T10:13:19.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Final.PL",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Final.PL.csproj",
+              "RelativeDocumentMoniker": "Final.PL\\Final.PL.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Final.PL.csproj",
+              "RelativeToolTip": "Final.PL\\Final.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T10:12:55.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Final.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Final\\Final.PL\\Program.cs",
+              "RelativeToolTip": "Final.PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:12:37.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
